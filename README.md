@@ -18,3 +18,10 @@ update and upvote a post
 "user_id": 1,
 "post_id": 1
 }
+
+
+{
+	"comment_text": "This article is awesome!",
+	"user_id": 1,
+	"post_id": 1
+}
