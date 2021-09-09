@@ -25,3 +25,5 @@ update and upvote a post
 	"user_id": 1,
 	"post_id": 1
 }
+
+npm i bcrypt connect-session-sequelize dotenv express express-handlebars mysql2 sequelize jest
